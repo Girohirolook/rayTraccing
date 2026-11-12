@@ -1,4 +1,4 @@
-# [Project Name]: CPU & CUDA Ray Tracer
+# CPU & CUDA Ray Tracer
 
 A 3D renderer based on ray tracing, implemented with two backends: multithreaded CPU and GPU (CUDA). Developed as a coursework project at University.
 
